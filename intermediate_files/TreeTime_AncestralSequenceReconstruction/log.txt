@@ -1,0 +1,42 @@
+
+0.00	-TreeAnc: set-up
+
+86.74	WARNING: Previous versions of TreeTime (<0.7.0) RECONSTRUCTED sequences of
+     	tips at positions with AMBIGUOUS bases. This resulted in unexpected
+     	behavior is some cases and is no longer done by default. If you want to
+     	replace those ambiguous sites with their most likely state, rerun with
+     	`reconstruct_tip_states=True` or `--reconstruct-tip-states`.
+
+Inferred sequence evolution model (saved as /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeTime_AncestralSequenceReconstruction//sequence_evolution_model.txt):
+Substitution rate (mu): 1.0
+
+Equilibrium frequencies (pi_i):
+  A: 0.2983
+  C: 0.1618
+  G: 0.1845
+  T: 0.3454
+  -: 0.01
+
+Symmetrized rates from j->i (W_ij):
+	A	C	G	T	-
+  A	0	0.5037	1.3314	0.335	12.2185
+  C	0.5037	0	0.3815	3.6918	9.9297
+  G	1.3314	0.3815	0	1.2013	14.6704
+  T	0.335	3.6918	1.2013	0	16.5659
+  -	12.2185	9.9297	14.6704	16.5659	0
+
+Actual rates from j->i (Q_ij):
+	A	C	G	T	-
+  A	0	0.1503	0.3972	0.0999	3.6448
+  C	0.0815	0	0.0617	0.5972	1.6062
+  G	0.2456	0.0704	0	0.2216	2.7066
+  T	0.1157	1.2752	0.4149	0	5.722
+  -	0.1227	0.0997	0.1473	0.1663	0
+
+
+--- alignment including ancestral nodes saved as  
+	 /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeTime_AncestralSequenceReconstruction/ancestral_sequences.fasta
+
+--- tree saved in nexus format as  
+	 /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeTime_AncestralSequenceReconstruction/annotated_tree.nexus
+

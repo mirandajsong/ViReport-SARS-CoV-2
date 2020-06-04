@@ -1,0 +1,1 @@
+lsd2 -l 0 -u 0 -U 0 -s 29903 -i /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/rooted.tre -d /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/LSD2/times_lsd.txt

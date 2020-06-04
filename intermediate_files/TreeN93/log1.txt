@@ -1,0 +1,7 @@
+=== INPUTS ===
+Input File:  /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/pairwise_distances_phylogeny.csv
+Output File: /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeN93/treen93.tre
+
+=== COMPUTE TREEN93 TREE ===
+Number of Individuals: 4635
+Total runtime: 272.79925417900085 seconds

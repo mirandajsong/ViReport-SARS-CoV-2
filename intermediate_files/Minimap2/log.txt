@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.003*2.85] collected minimizers
+[M::mm_idx_gen::0.006*6.22] sorted minimizers
+[M::main::0.008*4.99] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.008*4.82] mid_occ = 3
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.008*4.67] distinct minimizers: 5587 (99.93% are singletons); average occurrences: 1.004; average spacing: 5.332
+[M::worker_pipeline::3.348*26.45] mapped 4634 sequences
+[M::main] Version: 2.17-r941
+[M::main] CMD: minimap2 -a -d /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/Minimap2/index.mmi -o /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/Minimap2/alignment.sam -t 32 /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/Minimap2/ref.fas /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/Minimap2/seqs.fas
+[M::main] Real time: 3.351 sec; CPU: 88.555 sec; Peak RSS: 0.210 GB

@@ -1,0 +1,2 @@
+TreeN93.py -v -i /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/pairwise_distances_phylogeny.csv -o /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeN93/treen93.tre
+TreeN93_cluster.py -v -i /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeN93/treen93.tre -o /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/transmission_clusters.tsv

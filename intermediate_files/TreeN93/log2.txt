@@ -1,0 +1,10 @@
+=== INPUTS ===
+Input File:  /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/TreeN93/treen93.tre
+Output File: /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/transmission_clusters.tsv
+Mode:        max_non_singleton
+
+=== RESULTS ===
+Computing transmission clusters...
+Optimal Threshold: 0.000000
+Number of Non-Singleton Clusters: 736
+Total runtime: 0.1727449893951416 seconds

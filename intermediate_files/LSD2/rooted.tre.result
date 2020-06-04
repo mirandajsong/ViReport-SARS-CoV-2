@@ -1,0 +1,37 @@
+
+LEAST-SQUARE METHODS TO ESTIMATE RATES AND DATES - v.1.8 
+
+
+Input files:
+  i                                               Input tree file : /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/rooted.tre
+  d                                               Input date file : /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/intermediate_files/LSD2/times_lsd.txt
+  p                                                Partition file : No
+Output file:
+  o                                                  Output file  : /mnt/disks/vireport-store/ViReport_SARS-CoV-2_Inputs/miranda_out/output_files/rooted.tre.result
+Parameters:
+  c                                              With constraints : Yes
+  t                                      Lower bound for the rate : 1e-10
+  v                                                With variances : Yes, use variances based on input branch lengths
+  b                              Adjusted parameter for variances : To estimate
+  r                                             Estimate the root : No
+  w                                       Given substitution rate : No
+  g                                               Given outgroups : No
+  n                                             Multiple data set : No
+  f                                  Compute confidence intervals : No
+  e                                          Exclude outlier tips : No
+  u                Min internal branch length of time scaled tree : 0
+  U                Min external branch length of time scaled tree : 0
+  l                        Collapsed internal branch length limit : 0
+  D                                            Output date format : Based on input date format
+
+  h to print Help 
+  y to accept or type a letter to change an option (x = Exit) 
+Tree 1 
+Parameter to adjust variances was set to 0.000334415 (settable via option -b)
+*RESULTS:
+- Dating results:
+ rate 4.49805e-07, tMRCA 737164
+
+*********************************************************
+
+TOTAL ELAPSED TIME: 4.06036 seconds
